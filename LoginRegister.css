@@ -1,0 +1,84 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+header{
+  background-color: #FFF;
+  height: 50px;
+}
+body{
+  background-color: #F5F5F5;
+  position: relative;
+  width:100%;
+  overflow-x:hidden;
+}
+#title{
+  color: #000000;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 900;
+  font-family: Osaka;
+  position: relative;
+  top: 12px;
+  left: 20px;
+}
+#form1{
+  color: #000000;
+  text-decoration: none;
+  font-size: 13px;
+  font-family: sans-serif;
+  position: relative;
+  top: 30px;
+  left: 40px;
+}
+#form2{
+  color: #000000;
+  text-decoration: none;
+  font-size: 13px;
+  font-family: sans-serif;
+  position: relative;
+  top: 20px;
+  left: 40px;
+}
+.inputform{
+  width:200px;
+  height: 21px;
+  border: 2px solid #EEEEEE;
+}
+#button{
+  display: inline-block;
+  padding: 5px 18px;
+  border-radius: 28px;
+  text-decoration: none;
+  background-color:#000000;
+  color:#FFF;position: relative;
+  top: 10px;
+}
+#link2{
+  position: relative;
+  top: 50px;
+  left: 40px;
+  color: #000000;
+  font-size: 13px;
+  font-family: sans-serif;
+}
+#comment{
+  color:#F00;
+  font-size: 13px;
+  font-family: sans-serif;
+  padding: 10px;
+  width: 200px;
+  background-color: #FFC0CB;
+  position: relative;
+  top: 20px;
+  left: 40px;
+}
+#link1{
+  color: #000000;
+  text-decoration: none;
+  font-size: 12px;
+  font-family: sans-serif;
+  position: relative;
+  top: 12px;
+  left: 1050px;
+}
